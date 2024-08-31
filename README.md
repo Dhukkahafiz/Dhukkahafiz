@@ -22,12 +22,12 @@ Let's build something extraordinary together! 🚀
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/adilkadivala">
+      <a href="https://github.com/Dhukkahafiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkadivala&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
 </a>
     </td>
     <td>
-      <a href="https://github.com/adilkadivala">
+      <a href="https://github.com/Dhukkahafiz">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkadivala&hide=jupyter%20notebook,css&layout=compact&theme=dracula" width="400" height="200"/>
       </a>
     </td>
