@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  , I'm Adil Kadival (K-Adi)
+  , I'm dhukka hafiz
 </h1>
 <h3 align="center">A passionate MERN Stack developer from INDIA</h3>
 
