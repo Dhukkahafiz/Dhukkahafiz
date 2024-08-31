@@ -23,18 +23,18 @@ Let's build something extraordinary together! 🚀
   <tr>
     <td>
       <a href="https://github.com/Dhukkahafiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkadivala&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhukkahafiz&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
 </a>
     </td>
     <td>
       <a href="https://github.com/Dhukkahafiz">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkadivala&hide=jupyter%20notebook,css&layout=compact&theme=dracula" width="400" height="200"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhukkahafiz&hide=jupyter%20notebook,css&layout=compact&theme=dracula" width="400" height="200"/>
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkadivala&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="" />
+      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhukkahafiz&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="" />
     </td>
   </tr>
 </table>
